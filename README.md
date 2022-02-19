@@ -1,5 +1,5 @@
 # Hi there , I'm Luxer 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/262310294749970433?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/262310294749970433)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/262310294749970433?hideDiscrim=true)](https://discord.com/users/262310294749970433)
 
 ![version :17.10.2021](https://img.shields.io/badge/version-17.10.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Luxerr&color=red)&nbsp;
